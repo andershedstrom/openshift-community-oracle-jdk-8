@@ -1,0 +1,17 @@
+---
+Name: JDK8
+Cartridge-Short-Name: JDK8
+Architecture: noarch
+Display-Name: Oracle JDK 8
+Description: Adds Oracle JDK 8 support
+Version: '0.0.1'
+Cartridge-Version: 0.0.1
+Cartridge-Vendor: andershedstrom
+License: BSD
+Categories:
+- embedded
+Provides:
+- orajdk8
+Scaling:
+  Min: 1
+  Max: 1
